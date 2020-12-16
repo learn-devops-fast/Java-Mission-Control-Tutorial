@@ -69,7 +69,7 @@ blurb: Learn Java's JDK Mission Control and the JVM Flight Recorder with this fr
             <img src="/assets/log-synchronization-mission-control.jpg" class="img-fluid" alt="Java latency issues">
          <div class="card-body  d-flex flex-column">
             <p class="card-text">See how bad log method syncs lead to low latency Java problems.</p>
-            <p class="text-center mt-auto"><a href="/2020/12/10/Low_Latency_Java_Performance_JMC_JFR.html" class="text-center btn btn-outline-primary btn-sm">Java Latency</a></p>
+            <p class="text-center mt-auto"><a href="/2020/12/10/low_latency_java_performance_jmc_jfr.html" class="text-center btn btn-outline-primary btn-sm">Java Latency</a></p>
          </div>
       </div>
    </div>
