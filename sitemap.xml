@@ -173,5 +173,10 @@
   <priority>0.64</priority>
 </url>
 
-
+ <url>
+  <loc>http://missioncontrol.mcnz.com/2020/12/12/Optimize_Java_Code.html</loc>
+  <lastmod>2020-12-16T17:18:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>     
+      
 </urlset>
