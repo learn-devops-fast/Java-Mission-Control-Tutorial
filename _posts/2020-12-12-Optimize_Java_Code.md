@@ -142,7 +142,12 @@ so there's another 32 bits worth of data
 that tells me some other stuff about the
 object you typically have a lock word as
 well so the fact that you can
-synchronize on Java objects we have to
+synchronize on Java objects 
+
+<img alt="Optimize Java Code" class="img-fluid" src="/assets/eclipse-jmc-garbage-collection.png"/>
+
+
+we have to
 have a bit of data that lets you do that
 so you've often got three words 96 bits
 worth of header that's just to have a
