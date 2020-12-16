@@ -29,7 +29,7 @@ blurb: Learn Java's JDK Mission Control and the JVM Flight Recorder with this fr
             <source srcset="/assets/get-started-mission-control.jpg" media="(min-width: 992px)">
             <source srcset="/assets/get-started-mission-control.jpg" media="(min-width: 768px)">
             <source srcset="/assets/get-started-mission-control.jpg" media="(min-width: 576px)">
-            <img src="/assets//assets/get-started-mission-control.jpg" class="img-fluid" alt="Get Started Java Mission Control">
+            <img src="/assets/get-started-mission-control.jpg" class="img-fluid" alt="Get Started Java Mission Control">
          </picture>
          <div class="card-body  d-flex flex-column">
             <p class="card-text">Get the software you need to run JMC and JFR.</p>
