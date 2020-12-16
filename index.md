@@ -59,7 +59,7 @@ blurb: Learn Java's JDK Mission Control and the JVM Flight Recorder with this fr
          <img src="/assets/flight-recorder-performance-profile.jpg" class="card-img-top" alt="pass UiPath Associate Exam">
          <div class="card-body  d-flex flex-column">
             <p class="card-text">Identify poor Java programming choices that hurt performance. </p>
-            <p class="text-center mt-auto"><a href="/cert-brain-dumps-uipath.html" class="text-center btn btn-outline-primary btn-sm">Performance</a></p>
+            <p class="text-center mt-auto"><a href="/2020/12/10/Java_LinkedList_vs_HashSet_Performance.html" class="text-center btn btn-outline-primary btn-sm">Performance</a></p>
          </div>
       </div>
    </div>
