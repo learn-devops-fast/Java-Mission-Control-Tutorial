@@ -1,8 +1,8 @@
 ---
 layout: default
 author: Cameron McKenzie
-title: How bad Java code leads to performance problems: JDK Mission Control
-blurb: Here's how to use Java Flight Recorder & Mission Control to identify bug ridden code that causes a JVM performance problem.
+title: How bad Java code leads to performance problems with JDK Mission Control
+blurb: Here's how to use Java Flight Recorder & Mission Control to identify bug ridden code.
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
