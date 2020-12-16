@@ -168,7 +168,12 @@ down that you'll want to look at so it's
 a good place to look
 but yeah that's a great way of
 identifying the problem now in this
-example
+example.
+
+<img alt="Typical Java Leak Profile" class="img-fluid" src="https://itknowledgeexchange.techtarget.com/coffee-talk/files/2020/12/memory-jdk-mission-control.jpg">
+
+## Fix Java memory Leaks
+
 you can go in and you can remove that
 memory leak just by
 getting rid of that call to the 100
@@ -214,6 +219,13 @@ memory leaks been taken away
 if you take a look at the live objects
 there's actually nothing even sitting in
 there so
+
+
+<img alt="eclipse jmc jfr memory live objects" class="img-fluid" src="https://itknowledgeexchange.techtarget.com/coffee-talk/files/2020/12/java-mission-control-gc-garbage-collection.jpg">
+
+
+
+
 
 ## Java Flight Recorder and Mission Control
 i mean that's a great contrast of how
