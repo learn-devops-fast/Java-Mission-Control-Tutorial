@@ -203,7 +203,11 @@ bits of overhead that's now doubled to
 256 bits of overhead which means our
 overhead to store an INT in an integer
 object becomes 9 to 1 so on 64-bit
-everything just uses more memory if you
+everything just uses more memory.
+
+
+### Java Heap Optimization
+
 so moving from 32 to 64 bit you need to
 make your Java heap bigger and you have
 to accept that it's going to cost you
@@ -355,7 +359,12 @@ and destroy objects left off of them but
 if the overhead of GC is 10% the maximum
 performance boost you can get by
 minimizing this
-and reducing overhead of GC is 10% and I
+and reducing overhead of GC is 10%.
+
+
+### JVM Optimization and Moore's Law
+
+I
 think Moore's law explains that you know
 CPU speeds double every 18 months so
 that's going to dwarf what you can do
