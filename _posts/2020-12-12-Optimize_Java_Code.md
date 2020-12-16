@@ -117,7 +117,17 @@ and it goes into an integer the amount
 of memory Java uses to store that is
 four times the size of an int so it's
 quite a lot of memory just to to
-allocate a little bit of data so the
+allocate a little bit of data 
+
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3gxhuATmHs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+## Java Pointer Optimization
+
+so the
 obvious question is why is that so when
 you put that ten value into the integer
 we created an object and Java objects
