@@ -165,7 +165,7 @@ blurb: Learn Java's JDK Mission Control and the JVM Flight Recorder with this fr
          </picture>
          <div class="card-body  d-flex flex-column">
             <p class="card-text">Here's how to create custom Java Flight Recorder events.</p>
-            <p class="text-center mt-auto"><a href="/2020/12/10/2020-12-10-Custom_Flight_Recorder_Events_Mission_Control.html" class="text-center btn btn-outline-primary btn-sm">Custom Events</a></p>
+            <p class="text-center mt-auto"><a href="/2020/12/10/Custom_Flight_Recorder_Events_Mission_Control.html" class="text-center btn btn-outline-primary btn-sm">Custom Events</a></p>
          </div>
       </div>
    </div>
