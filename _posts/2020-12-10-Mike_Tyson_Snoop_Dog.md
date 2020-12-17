@@ -1,8 +1,8 @@
 ---
 layout: default
 author: Cameron McKenzie
-title: Source code for Java Autoboxing and Mission Control Example
-blurb: Here's a Java Autoboxing source code example that demonstrates, using JDK Mission Control and the JVM Flight recorder, performance problems boxing and unboxing can cause.
+title: Source code for Java Autoboxing & Mission Control
+blurb: Here's a Java Autoboxing source code example that demonstrates using JDK Mission Control and the JVM Flight recorder.
 ---
 
 # Java Mission Control Example Code
