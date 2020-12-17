@@ -5,7 +5,7 @@ title: JDK Mission Control Training Course
 blurb: Here are the key elements to any Java Mission Control and JVM Flight Recorder training course.
 ---
 
-Introduction to Java's JDK Mission Control (JMC)
+# Introduction to Java's JDK Mission Control (JMC)
 Introduction to Java's JVM Flight Recorder (JFR)
 
 JMC and JFR vs Other JVM Tools
