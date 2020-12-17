@@ -235,3 +235,4 @@ blurb: Learn Java's JDK Mission Control and the JVM Flight Recorder with this fr
    
 
 </div>
+<h1>Java Mission Control & Flight Recorder Tutorial</h1>
