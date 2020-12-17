@@ -1,7 +1,7 @@
 ---
 layout: default
 author: Cameron McKenzie
-title: JCMD Tutorial
+title: JCMD Tutorial (Java JDK Command tool)
 blurb: Learn how to use the JCMD Java Diagnostic command through examples in this tutorial.
 ---
 
