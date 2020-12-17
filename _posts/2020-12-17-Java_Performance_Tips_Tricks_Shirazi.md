@@ -965,7 +965,7 @@ that if you can you can you need to do
 the dump analysis whoa I am cutting it
 close
 okay this is memory their kids memory
-- memory analysis tool it's really
+memory analysis tool it's really
 straightforward you can just go to the
 dominators panel you find the one that's
 that that's taking up all the space and
