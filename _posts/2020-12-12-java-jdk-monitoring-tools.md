@@ -2,7 +2,7 @@
 layout: default
 author: Cameron McKenzie
 title: A list of JVM monitoring tools
-blurb: Here's a list of monitoring tools
+blurb: Here's a list of monitoring tools to help you improve JVM performance.Fh
 ---
 
 # JVM Monitoring Tools List
@@ -12,7 +12,7 @@ blurb: Here's a list of monitoring tools
 </div>
 
 <div id="JSTGD249"><a id="BABFCEEB" name="BABFCEEB">
-<div class="smallpagetitle"><h1>Monitoring Tools</h1></div>
+<div class="smallpagetitle"><h2>Monitoring Tools</h2></div>
 </a><p><a id="BABFCEEB" name="BABFCEEB">The tools listed in the </a><a href="#BABFCEHE">Table 2-4</a> are designed for monitoring applications that are running.</p>
 <p>The release of JDK 8 introduced Java Mission Control, Java Flight Recorder, and <code dir="ltr">jcmd</code> utility for diagnosing problems with JVM and Java applications. It is suggested to use the latest utility, <code dir="ltr">jcmd</code> instead of the previous <code dir="ltr">jstack</code>, <code dir="ltr">jinfo,</code> and <code dir="ltr">jmap</code> utilities for enhanced diagnostics and reduced performance overhead.</p>
 <div id="JSTGD250"><a id="sthref29" name="sthref29"></a><a id="BABFCEHE" name="BABFCEHE">
